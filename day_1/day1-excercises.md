@@ -14,7 +14,7 @@
   5a. There are a few ways in order to view the source HTML code. One (exclusive to Mac) is by hitting the Command + Option + U in that order. Alternatively you can also right click on a page, scroll down to "View Page Source" and view the text.
 
 6.  List five different HTML elements and what they are used for. For example, `<p></p>` is a paragraph element, and it is used to represent a paragraph of text.
-6a.'<h1><h6>' are used to annotate the beginning and ending of a paragraph.
+6a.'<h1><h6>' through are used to annotate the beginning and ending of a paragraph.
 <body></body> is used to annotate the body of text, normally other elements will be contained inside of this element.
 '<i></i>' is used for italics.
 <b></b> is used for bold.
