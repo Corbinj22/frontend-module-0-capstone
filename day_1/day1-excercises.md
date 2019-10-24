@@ -1,4 +1,4 @@
-1.On a website, what is the purpose of HTML code?
+1.On a website, what is the purpose of HTML code? <br />
   1a. The purpose of HTML is to allow developers to using a computer(s) languages in order to create an interactive webpage that allows user to access information.
 
 2.What is the difference between an element and a tag?
@@ -16,7 +16,7 @@
 6.  List five different HTML elements and what they are used for. For example, `<p></p>` is a paragraph element, and it is used to represent a paragraph of text.
 6a. <h1> through <h6> are used to annotate the beginning and ending of a paragraph.
 <body></body> is used to annotate the body of text, normally other elements will be contained inside of this element.
-<i></i> is used for italics.
+'<i></i>' is used for italics.
 <b></b> is used for bold.
 <cite></cite> is used to citation a particular part of the text.
 
