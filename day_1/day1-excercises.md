@@ -27,7 +27,7 @@
   8a. Semantic markup is a form of markup that uses extra information to provide context. Examples include using citations of quotations in text.
 
 9.What are three new semantic elements introduced in HTML 5? Use page 431 in the book to find more about these new elements. <br />
-  9a. It appears though HTML5 some of the additional information used in previous versions of HTML no longer require the addtional <div if=> these include the <header>, <nav>, and <article> elements.
+  9a. It appears though HTML5 some of the additional information used in previous versions of HTML no longer require the addtional `<div if=>` these include the `<header>`, `<nav>`, and `<article>` elements.
 
 
 CodePen URL:
