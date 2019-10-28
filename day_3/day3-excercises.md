@@ -1,8 +1,8 @@
-If you're using an input element in a form, what attribute controls the behavior of that input?<br />
+1.If you're using an input element in a form, what attribute controls the behavior of that input?<br />
 1a. I'm not 100% sure on this answer as method can control the behavior in which the element tries to <b>get</b> (pull) or the <b>post</b> (push) method. However<br />
 for this particular quesion I feel the <b>form control</b> is probably the correct answer as its value controls the data that is input from the user.<br />
 
-What element is used to create a dropdown list?<br />
+2What element is used to create a dropdown list?<br />
 2a.The element used would be the <b>select</b> element, which also requires using the <b>option</b> elements to select the options the user can choose from<br />
 
 3.If you're using an input element to send form data to a server, what should the type attribute be set to?<br />
