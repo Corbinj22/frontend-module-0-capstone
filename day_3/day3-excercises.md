@@ -6,7 +6,7 @@ What element is used to create a dropdown list?<br />
 2a.The element used would be the <b>select</b> element, which also requires using the <b>option</b> elements to select the options the user can choose from<br />
 
 3.If you're using an input element to send form data to a server, what should the type attribute be set to?<br />
-3a.The attribute set I believe would be the <b>text input type</b> <b />
+3a.The attribute set I believe would be the <b>text input type</b> <br />
 
 4.What element is used to group similar form items together?<br />
 4a.The element used is the grouping form element which uses the input element <b>fieldset</b> <br />
