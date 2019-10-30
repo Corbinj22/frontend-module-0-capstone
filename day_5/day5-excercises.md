@@ -17,7 +17,8 @@
 4a.An arry is useful by storing all the information that is relative to each other in one variable. Arrays are indexed by a value starting with 0, by using this you are able to make amendments to a variable using the correct syntax and number associated with the array item you want to change.  <br />
 
 5.What is the difference between an expression and a statement?<br />
-5a. ***CANT FIND ANSWER TO QUESTION*** I see that an expression is a (or more)value assigned to a variable <br />
+5a. ***COULDNT FIND ANSWER IN BOOK, SO GOOGLED ANSWER*** A statement is a complete line of code that performs some action, while an expression is any section of the code that evaluates to a value.  <br />
+
 
 6.What are three types of operators and how are they used?<br />
 6a.Addition is used by assiging the + sign, multiplications is used by assigning the * sign, and subtraction is assigned by using the - sign. Each can be used in variables to calculate a value. <br />
