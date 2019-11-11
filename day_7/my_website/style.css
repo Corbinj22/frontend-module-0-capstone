@@ -59,15 +59,20 @@
         }
         .sentData{ background-color: #fff;
         }
-        #userName{line-height: 1.5;
+        #userName{line-height: 1.0;
         border-radius: 5px;
         border: 1px;
-        padding-bottom: 5px}
+        padding-bottom: 10px;
+        padding-top: 10px;
+        text-align: center;
         }
         #userInput{line-height: 1.5;
-        border-radius: 5px;
+        border-radius: 0px;
         border: 1px;
-        padding-bottom: 5px}
-
-        #button{
+        padding-bottom: 0px;
+        text-align: center;
+        resize: none;
+        overflow: auto;
+        }
+        #button{text-align: center;
         }
